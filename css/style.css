@@ -1,0 +1,58 @@
+#homepageBody {background-image: url("../img/hintergrund_main.jpg"); background-size: cover; color: white; background-repeat: no-repeat; background-color: black; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+#rainbowBackground {
+    background-size: cover;
+    color: white;
+    background-repeat: no-repeat;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url("../img/lion.jpg");
+    text-shadow: 1px 1px 1px black,
+                1px -1px 1px black,
+                -1px 1px 1px black,
+                -1px -1px 1px black;
+}
+a {color: darkcyan;}
+#sonstigesRainbow {background-size: cover;
+    color: white;
+    background-repeat: no-repeat;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url("../img/Rainbow.jpg");
+    text-shadow: 1px 1px 1px black,
+                1px -1px 1px black,
+                -1px 1px 1px black,
+                -1px -1px 1px black;
+}
+#overwatchMain {background-size: cover;
+    color: white;
+    background-repeat: no-repeat;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 1px 1px 1px black,
+    1px -1px 1px black,
+    -1px 1px 1px black,
+    -1px -1px 1px black;
+    background-image: url("../img/maxresdefault.jpg");
+}
+#linkOverwatch {color: orangered;}
+#overwatchHaupt {background-size: cover;
+    color: white;
+    background-repeat: no-repeat;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 1px 1px 1px black,
+    1px -1px 1px black,
+    -1px 1px 1px black,
+    -1px -1px 1px black;
+}
+#overwatchAllgemein {background-size: cover;
+    color: white;
+    background-repeat: no-repeat;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 1px 1px 1px black,
+    1px -1px 1px black,
+    -1px 1px 1px black,
+    -1px -1px 1px black;
+    background-image: url("../img/overwatch_logo.jpg");
+}
