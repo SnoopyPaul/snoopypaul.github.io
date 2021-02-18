@@ -44,6 +44,7 @@ a {color: darkcyan;}
     1px -1px 1px black,
     -1px 1px 1px black,
     -1px -1px 1px black;
+    background-image: url("../img/overwatch_theme.jpg");
 }
 #overwatchAllgemein {background-size: cover;
     color: white;
