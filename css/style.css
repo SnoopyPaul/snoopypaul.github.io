@@ -57,3 +57,24 @@ a {color: darkcyan;}
     -1px -1px 1px black;
     background-image: url("../img/overwatch_logo.jpg");
 }
+#fallguysmainpage {background-size: cover;
+    color: white;
+    background-repeat: no-repeat;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 1px 1px 1px black,
+    1px -1px 1px black,
+    -1px 1px 1px black,
+    -1px -1px 1px black;
+    background-image: url("../img/fallguys_hintergrund.jpg")
+}
+#fallguysrest {background-size: cover;
+    color: white;
+    background-repeat: no-repeat;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 1px 1px 1px black,
+    1px -1px 1px black,
+    -1px 1px 1px black,
+    -1px -1px 1px black;
+    background-image:url("../img/Fall\ guys\ background.jpg")
