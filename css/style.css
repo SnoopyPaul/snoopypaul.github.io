@@ -34,7 +34,7 @@ a {color: darkcyan;}
     -1px -1px 1px black;
     background-image: url("../img/maxresdefault.jpg");
 }
-#linkOverwatch {color: orangered;}
+#linkO {color: orangered;}
 #overwatchHaupt {background-size: cover;
     color: white;
     background-repeat: no-repeat;
@@ -77,4 +77,17 @@ a {color: darkcyan;}
     1px -1px 1px black,
     -1px 1px 1px black,
     -1px -1px 1px black;
-    background-image:url("../img/fallguysbackground.jpg");}
+    background-image:url("../img/fallguysbackground.jpg");
+}
+a:link, a:visited {
+        background-color: #f44336;
+        color: white;
+        padding: 14px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+}
+      
+      a:hover, a:active {
+        background-color: red;
+}
