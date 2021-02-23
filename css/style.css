@@ -80,14 +80,13 @@ a {color: darkcyan;}
     background-image:url("../img/fallguysbackground.jpg");
 }
 a:link, a:visited {
-        background-color: #f44336;
+        background-color:  #d35400;
         color: white;
         padding: 14px 25px;
         text-align: center;
         text-decoration: none;
         display: inline-block;
-        border-radius: 5px;
 }
       a:hover, a:active {
-        background-color: red;
+        background-color: white;
 }
